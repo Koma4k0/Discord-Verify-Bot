@@ -26,3 +26,5 @@ You can checkout the non-free version here: https://verify.koma4k.xyz/
 - Fill in all the empty fields in `config.py`
 - Run `start.bat` or `py/python app.py` (Starts the bot and webserver)
 - Once the bot & webserver are running, run `/setup` in your servers verify channel
+
+![FOR ANALYTICAL PURPOSES ONLY](https://tracker.koma4k.xyz/telemetry/clxvkjisb0001xmjnf0eakp35/clxwk4f9i002zryrgzqevn3si.gif)
