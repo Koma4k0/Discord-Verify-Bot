@@ -1,0 +1,7 @@
+fastapi
+requests
+asyncio
+sqlite3
+discord
+py-cord
+uvicorn
